@@ -1,0 +1,137 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Ukraine war: Nuclear plant inspection could restore safety, Zelensky says",
+    "description": "Ukraine's president was speaking after Russia pledged to give UN officials access to Zaporizhzhia's plant.",
+    "url": "http://www.bbc.co.uk/news/live/world-62615601",
+    "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+    "publishedAt": "2022-08-20T07:52:24.5266731Z",
+    "content": "More now on the situation at the Zaporizhzhia nuclear power plant, which has been under Russian control since March. Over the last week Ukraine and Russia have accused each other of shelling near the… [+797 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Mexico missing students: Former top official arrested over probe",
+    "description": "The former attorney general led a controversial inquiry into the disappearance of the 43 students.",
+    "url": "http://www.bbc.co.uk/news/world-latin-america-62614685",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/CE34/production/_126388725_gettyimages-479240406.jpg",
+    "publishedAt": "2022-08-20T03:22:20.5271335Z",
+    "content": "By Leo SandsBBC News\r\nMexico's former attorney general has been arrested in connection with the disappearance of 43 students in 2014.\r\nJesús Murillo Karam, who led an inquiry into the atrocity, has b… [+2598 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "'Competing with mother nature is tough'",
+    "description": "Artist Frank Stella reflects on his career and his latest show on one of the oldest working US ranches.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-62514791",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/30C8/production/_126388421_p0cv8btb.jpg",
+    "publishedAt": "2022-08-19T23:07:26.6678019Z",
+    "content": "Legendary artist Frank Stella reflects on his latest project, a massive exhibition of recent sculptures on a ranch outside of New York City.\r\nFor over 60 years, Stella has been one of America's leadi… [+333 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "New Zealand: Seal breaks into marine biologist's home",
+    "description": "The curious seal, nicknamed Oscar, is thought to have squeezed through the cat flaps on its adventure.",
+    "url": "http://www.bbc.co.uk/news/world-asia-62608162",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15016/production/_126383068_mediaitem126382295.jpg",
+    "publishedAt": "2022-08-19T23:07:24.4027417Z",
+    "content": "By Elsa MaishmanBBC News\r\nWhen Jenn Ross returned to her New Zealand home to find a few buckets out of place in the garage, she thought the family cat, Coco, might have brought in a bird. \r\nInstead s… [+1811 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Ex-Briton 'Isis Beatle' sentenced to life in prison",
+    "description": "Elshafee El Sheikh, 34, was found guilty in April of kidnapping and supporting a terrorist group.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-62609217",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5D00/production/_95980832_elshafeeelsheikhcfamily-tweak5.jpg",
+    "publishedAt": "2022-08-19T16:07:23.2762417Z",
+    "content": "An Islamic State group militant from the UK has been sentenced to life in prison by a US court for his involvement with a terror cell.\r\nEl Shafee Elsheikh, 34, was convicted in April of hostage-takin… [+2030 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Vancouver Zoo: One escaped wolf missing, another found dead",
+    "description": "The police suspect the wolves were set free by a vandal who broke into the Greater Vancouver Zoo.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-62608918",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6B9C/production/_126384572_gettyimages-1408483536.jpg",
+    "publishedAt": "2022-08-19T15:52:26.5831398Z",
+    "content": "Canada police are searching for a missing wolf after a pack escaped from a zoo near Vancouver.\r\nPolice and zoo staff believe the wolves were set free from the Greater Vancouver Zoo by a vandal on Tue… [+1911 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Ukraine's Crimean fightback having 'psychological impact' on Russia",
+    "description": "Western officials reveal the impact of recent Ukrainian strikes on the Russian-occupied peninsula.",
+    "url": "http://www.bbc.co.uk/news/world-europe-62608526",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14C33/production/_126334058_381b73ede2202afb9325db2bdd9cb6d32d2351a50_472_5416_30481000x563.jpg",
+    "publishedAt": "2022-08-19T15:52:19.5269852Z",
+    "content": "By Frank Gardner and Matt MurphyBBC News\r\nMedia caption, WATCH: Explosions seen at an arms depot in Maiske in Crimea on Tuesday 16 August\r\nUkrainian strikes on Crimea are having major psychological a… [+3407 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Billionaire Xiao Jianhua jailed for 13 years in China",
+    "description": "Chinese-Canadian tycoon Xiao Jianhua disappeared from a luxury hotel in Hong Kong in 2017.",
+    "url": "http://www.bbc.co.uk/news/world-asia-china-62605879",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/16BA4/production/_94229039_cac47280-3184-4efe-80f4-e834c24541e5.jpg",
+    "publishedAt": "2022-08-19T14:52:20.0109751Z",
+    "content": "A Chinese-Canadian billionaire has been sentenced to 13 years in prison in China and his company fined more than $8bn (£6.7bn).\r\nXiao Jianhua and his company Tomorrow Holdings were charged with embez… [+2302 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Sanna Marin: Finnish PM reveals she has taken drug test",
+    "description": "Sanna Marin was speaking at a news conference after videos showed her partying with Finnish celebrities.",
+    "url": "http://www.bbc.co.uk/news/world-europe-62608831",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4EF0/production/_126380202_marinebu.jpg",
+    "publishedAt": "2022-08-19T14:07:22.5594245Z",
+    "content": "Finland's prime minister has said she has taken a drug test, after new footage emerged showing the leader dancing with a Finnish popstar.\r\nThe footage was revealed after Sanna Marin, 36, came under f… [+389 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "PFAS: Possible breakthrough to destroy harmful 'forever chemicals'",
+    "description": "US scientists have discovered a low-cost method for destroying chemicals associated with cancer.",
+    "url": "http://www.bbc.co.uk/news/science-environment-62561756",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13CE4/production/_126342118_makeup_pfas.jpg",
+    "publishedAt": "2022-08-19T10:52:19.1888257Z",
+    "content": "By Esme StallardBBC News Climate and Science\r\nChemists have identified how to destroy \"forever chemicals\" in a low-cost way for the first time, new research says.\r\nScientists have linked exposure to … [+3600 chars]"
+    }
+    ]
+    }
+    
